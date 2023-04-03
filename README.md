@@ -1,1 +1,1 @@
-PowerBi dashboard
+PowerBi Dashboard
